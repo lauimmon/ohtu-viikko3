@@ -5,3 +5,4 @@
 /LoginCucumber/.nb-gradle/
 /LoginCucumber/build/
 **/gradle.properties
+/WebLogin/.nb-gradle/
